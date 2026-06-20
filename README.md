@@ -4,10 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 
-
-
 </div>
-
 
 ---
 
