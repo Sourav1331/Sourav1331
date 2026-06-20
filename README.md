@@ -100,16 +100,6 @@ Continuously exploring new advancements in Generative AI while strengthening pra
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sourav1331&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -133,9 +123,3 @@ Continuously exploring new advancements in Generative AI while strengthening pra
 </div>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Sourav1331\&style=for-the-badge)
-
-</div>
