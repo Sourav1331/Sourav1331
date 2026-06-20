@@ -1,31 +1,12 @@
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
-  <rect width="900" height="120" fill="#0A0F1A"/>
-  <!-- top circuit line -->
-  <line x1="60" y1="18" x2="840" y2="18" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="60" cy="18" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="840" cy="18" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="435" cy="18" r="2.5" fill="#1a3a4a"/>
-  <circle cx="450" cy="18" r="2.5" fill="#1a3a4a"/>
-  <circle cx="465" cy="18" r="2.5" fill="#1a3a4a"/>
-  <!-- bottom circuit line -->
-  <line x1="60" y1="102" x2="840" y2="102" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="60" cy="102" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="840" cy="102" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
-  <circle cx="435" cy="102" r="2.5" fill="#1a3a4a"/>
-  <circle cx="450" cy="102" r="2.5" fill="#1a3a4a"/>
-  <circle cx="465" cy="102" r="2.5" fill="#1a3a4a"/>
-  <text
-    x="450" y="78"
-    font-family="'Orbitron', sans-serif"
-    font-weight="900"
-    font-size="48"
-    fill="white"
-    text-anchor="middle"
-    letter-spacing="6"
-  >SOURAV DANYAL</text>
-</svg>
-</p>
+<div align="center">
+
+<img src="./banner.png" alt="Sourav Danyal Banner" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 
