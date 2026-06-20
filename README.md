@@ -9,7 +9,7 @@
 ╚═════╝   ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝   ╚═══╝       ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚══╝    ╚═╝    ╚═╝  ╚═╝ ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1000&pause=500&color=00FFAA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1500&pause=500&color=00FFAA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 
 </div>
 
