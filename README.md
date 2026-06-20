@@ -1,6 +1,29 @@
 <div align="center">
 
-<img src="./banner.png" alt="Sourav Danyal Banner" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="850">
+  <!-- circuit decorations top -->
+  <line x1="180" y1="28" x2="390" y2="28" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="390" y1="28" x2="390" y2="20" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="510" y1="28" x2="720" y2="28" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="510" y1="28" x2="510" y2="20" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="180" cy="28" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="720" cy="28" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="441" cy="28" r="3" fill="#1a3a4a"/>
+  <circle cx="450" cy="28" r="3" fill="#1a3a4a"/>
+  <circle cx="459" cy="28" r="3" fill="#1a3a4a"/>
+  <!-- circuit decorations bottom -->
+  <line x1="180" y1="118" x2="390" y2="118" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="390" y1="118" x2="390" y2="126" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="510" y1="118" x2="720" y2="118" stroke="#1a3a4a" stroke-width="1"/>
+  <line x1="510" y1="118" x2="510" y2="126" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="180" cy="118" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="720" cy="118" r="3" fill="none" stroke="#1a3a4a" stroke-width="1"/>
+  <circle cx="441" cy="118" r="3" fill="#1a3a4a"/>
+  <circle cx="450" cy="118" r="3" fill="#1a3a4a"/>
+  <circle cx="459" cy="118" r="3" fill="#1a3a4a"/>
+  <!-- main text -->
+  <text x="450" y="90" font-family="'Courier New', monospace" font-weight="900" font-size="62" fill="white" text-anchor="middle" letter-spacing="8">SOURAV DANYAL</text>
+</svg>
 
 <br>
 
