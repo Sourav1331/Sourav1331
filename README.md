@@ -2,9 +2,10 @@
 
 # 🤖 Sourav Danyal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=SOURAV+DANYAL" />
+</p>
 
-</div>
 
 ---
 
