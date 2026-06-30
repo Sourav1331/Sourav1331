@@ -75,15 +75,6 @@ Continuously exploring new advancements in Generative AI while strengthening pra
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sourav1331&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav1331&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
