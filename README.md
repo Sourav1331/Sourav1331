@@ -74,11 +74,18 @@ Continuously exploring new advancements in Generative AI while strengthening pra
 </div>
 
 ---
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav1331&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
 
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav1331&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav1331&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
